@@ -9,4 +9,4 @@ Credit: "Global Map of Indonesia ©ISCGM/Indonesia"
 
 Contact: Geospatial Information Agency.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/indonesia.png)
+E-mail: ![email](email.png)
